@@ -1,2 +1,2 @@
-# Apple-Website-clo
-ne
+# Apple-Website-clone
+
